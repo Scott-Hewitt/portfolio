@@ -345,7 +345,7 @@ const Contact = () => {
                 <Box>
                   <Text fontWeight="bold">Email</Text>
                   <Link href="mailto:your.email@example.com" color={accentColor}>
-                    your.email@example.com
+                    scotthewitt@live.com
                   </Link>
                 </Box>
               </HStack>
@@ -366,7 +366,7 @@ const Contact = () => {
                 </Flex>
                 <Box>
                   <Text fontWeight="bold">Location</Text>
-                  <Text>San Francisco, CA</Text>
+                  <Text>Sydney, Australia</Text>
                 </Box>
               </HStack>
 

@@ -313,15 +313,13 @@ const Hero = () => {
               overflow="hidden"
               animation={floatAnimation}
               boxShadow="xl"
-            >
-              {/* Replace with your image */}
               <Text
                 fontSize="6xl"
                 textAlign="center"
                 lineHeight="300px"
                 animation={pulseAnimation}
               >
-                👨‍💻
+                💻⚛️🛠️
               </Text>
 
               {/* Small decorative elements */}

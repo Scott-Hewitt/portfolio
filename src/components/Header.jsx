@@ -96,7 +96,7 @@ const Header = () => {
             cursor="pointer"
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
           >
-            Developer Portfolio
+            Scott Hewitt
           </Text>
 
           <HStack spacing={8} alignItems={'center'}>
