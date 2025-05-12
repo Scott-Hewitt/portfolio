@@ -82,14 +82,13 @@ const Footer = () => {
                 Made with
               </Text>
               <Icon
-                as={FaHeart}
+                as={motion.svg}
                 color="red.500"
                 w={4}
                 h={4}
                 mx={1}
                 onClick={handleHeartClick}
                 cursor="pointer"
-                as={motion.svg}
                 whileHover={{ scale: 1.2 }}
                 whileTap={{ scale: 0.9 }}
                 transition={{ duration: 0.2 }}
