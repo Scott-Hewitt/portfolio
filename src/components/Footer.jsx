@@ -72,10 +72,10 @@ const Footer = () => {
               transition="all 0.3s ease"
               cursor="default"
             >
-              Developer Portfolio
+
             </Text>
             <Text fontSize="sm">
-              © {currentYear} Your Name. All rights reserved.
+              © {currentYear} Scott Hewitt. All rights reserved.
             </Text>
             <Flex align="center">
               <Text fontSize="sm" mr={1}>
