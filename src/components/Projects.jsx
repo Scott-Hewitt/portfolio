@@ -39,7 +39,7 @@ const projectsData = [
     id: 1,
     title: 'Game Development Team Management System',
     description: 'A robust task and project management tool for game development teams with role-based access, live status updates, and visual progress tracking.',
-    image: 'https://via.placeholder.com/600x400?text=Game+Dev+Team+Management',
+    image: 'images/game-dev-manager.png',
     tags: ['React', 'Node.js', 'MySQL', 'Express', 'Sequelize', 'Docker', 'JWT'],
     githubUrl: 'https://github.com/Scott-Hewitt/gamedev-team-management-app',
     liveUrl: null, // No live URL provided
@@ -49,7 +49,7 @@ const projectsData = [
     id: 2,
     title: 'MIDI Melody & Chord Generator',
     description: 'An interactive music composition tool that generates MIDI melodies and chord progressions based on user-defined music theory parameters.',
-    image: 'https://via.placeholder.com/600x400?text=MIDI+Melody+Generator',
+    image: 'images/miditool.png',
     tags: ['React', 'Tone.js', 'Firebase', 'JZZ.js', 'Chakra UI'],
     githubUrl: 'https://github.com/Scott-Hewitt/midi-tool',
     liveUrl: null, // No live URL provided
